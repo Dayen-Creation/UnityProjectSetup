@@ -1,7 +1,11 @@
+///
+/// Copyright (c) DayenCreation. All rights reserved.
+///
+
 using UnityEditor;
 using System.IO;
 
-namespace DayenCreation
+namespace DayenCreation.ProjectSetup
 {
 	public static class CreateScriptFromTemplates
 	{
